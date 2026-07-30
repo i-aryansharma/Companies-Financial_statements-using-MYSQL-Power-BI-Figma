@@ -125,22 +125,6 @@ The dashboard uses three datasets:
 - Tracked cumulative revenue growth.
 - Evaluated overall financial performance using interactive KPIs.
 
----
-
-## 📁 Project Structure
-
-```
-Financial-Statement-Analysis-PowerBI/
-│
-├── Financial Statement Analysis.pbix
-├── README.md
-└── images/
-    ├── dashboard.png
-    ├── revenue_trend.png
-    ├── company_revenue.png
-    ├── gross_profit.png
-    ├── net_profit.png
-```
 
 ---
 
