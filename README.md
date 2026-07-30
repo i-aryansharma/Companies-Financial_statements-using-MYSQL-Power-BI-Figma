@@ -88,6 +88,26 @@ The dashboard uses three datasets:
 -- Home Page
 <img width="1432" height="800" alt="Home" src="https://github.com/user-attachments/assets/0c47ff64-7884-4b0d-94af-42a39b3fed78" />
 
+-- Alpha Finance 
+<img width="1430" height="797" alt="Alpha Finance" src="https://github.com/user-attachments/assets/9f79ff39-d693-4b26-aeda-c0bf46922b21" />
+
+-- Beta Capital
+<img width="1428" height="797" alt="Beta Capitals" src="https://github.com/user-attachments/assets/c9aacaeb-6610-4307-bf73-785aa0137e8b" />
+
+-- Gamma Holdings
+<img width="1427" height="797" alt="Gamma Holdings" src="https://github.com/user-attachments/assets/7512e2e5-f72d-4a98-aa08-742b78c7a70d" />
+
+-- Delta Investments
+<img width="1427" height="797" alt="Delta Investments" src="https://github.com/user-attachments/assets/44891a6e-dd5b-41b5-bcbc-c7ea9725a04b" />
+
+-- Epsilon Bank
+<img width="1427" height="800" alt="Epsioln Bank" src="https://github.com/user-attachments/assets/e3b7a1fc-90df-4154-bd9c-99cd92c47144" />
+
+
+
+
+
+
 
 ---
 
