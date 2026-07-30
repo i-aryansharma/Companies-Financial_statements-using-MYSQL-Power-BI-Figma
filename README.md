@@ -104,6 +104,11 @@ The dashboard uses three datasets:
 <img width="1427" height="800" alt="Epsioln Bank" src="https://github.com/user-attachments/assets/e3b7a1fc-90df-4154-bd9c-99cd92c47144" />
 
 
+-- Proof of Design (that it is not copied)
+<img width="1917" height="1077" alt="Screenshot 2026-07-30 114620" src="https://github.com/user-attachments/assets/3e0218da-f6e0-458a-ab63-043739a3dc9d" />
+
+
+
 
 
 
