@@ -86,7 +86,7 @@ The dashboard uses three datasets:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
